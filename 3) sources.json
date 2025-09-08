@@ -1,0 +1,19 @@
+{
+  "daily_sources": [
+    {
+      "source": "cds",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285!vig=",
+      "title": "Codice della Strada - Testo vigente (Normattiva)"
+    },
+    {
+      "source": "regolamento",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-12-16;495!vig=",
+      "title": "Regolamento di esecuzione CdS - Testo vigente (Normattiva)"
+    },
+    {
+      "source": "mit",
+      "url": "https://www.mit.gov.it/normativa",
+      "title": "Ministero Infrastrutture e Trasporti - Normativa e circolari"
+    }
+  ]
+}
